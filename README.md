@@ -1,20 +1,14 @@
-# Projects
-
-
 # Healthcare Data Quality & EDA Mini Project
+This project focuses on data quality assessment, preprocessing, data cleaning, exploratory data analysis (EDA), using a stroke prediction dataset from Kaggle. The goal is to analyze stroke risk factors and improve data quality through structured data processing techniques.
 
-# Overview
-
-This project focuses on data quality assessment, preprocessing, data cleaning, exploratory data analysis (EDA), and feature engineering using a stroke prediction dataset from Kaggle. The goal is to analyze stroke risk factors and improve data quality through structured data processing techniques.
-
-# Dataset
+## Dataset
 
 Name: Stroke Prediction Dataset
 Source: Kaggle
 Size: 5,110 rows × 12 columns
 Description: Contains demographic and health-related attributes used to predict stroke occurrence.
 
-# Project Workflow
+## Project Workflow
 
 Load Dataset: Read and display the dataset.
 Data Quality Assessment:
